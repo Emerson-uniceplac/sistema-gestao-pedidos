@@ -1,2 +1,2 @@
-# sistema-gest-o-pedidos
+# sistema-gestao-pedidos
 Sistemas de gestão de pedidos
